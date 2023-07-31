@@ -1,5 +1,6 @@
 import React from 'react'
 import univLogo from '../../assets/images/logo_univ_header_name.png'
+import '../../assets/style/style.css'
 
 function Header() {
 

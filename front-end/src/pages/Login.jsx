@@ -1,3 +1,4 @@
+import '../assets/style/style.css';
 import Header from "../components/login/Header";
 import Footer from "../components/login/Footer";
 
